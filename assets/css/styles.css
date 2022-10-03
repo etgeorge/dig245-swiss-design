@@ -46,3 +46,9 @@ body{
     background-color: #F04B0F;
     color: #DEE0D6;
 }
+
+@media (min-width: 580px){
+    #footer{
+        font-size: 3em;
+    }
+}
