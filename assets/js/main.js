@@ -1,3 +1,3 @@
 
 /* javascript */
-console.log("Work by Ethan George. Inspired by Swissted")
+console.log("Original design by Mike Joyce. Recreated by Ethan George.")
