@@ -3,6 +3,7 @@
 a{
     text-decoration: none;
     color: #DEE0D6;
+    
 }
 
 #top{
@@ -38,7 +39,7 @@ body{
     background-color: #F04B0F;
     height: 200px;
     font-size: 4em;
-    color: #DEE0D6;
+    color: rebeccapurple;
 
 }
 
@@ -47,8 +48,9 @@ body{
     color: #DEE0D6;
 }
 
-@media (min-width: 580px){
-    #footer{
-        font-size: 3em;
+@media (max-width: 580px){
+    a{
+        font-size: 0.75em;
+        
     }
 }
